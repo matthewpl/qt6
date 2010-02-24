@@ -1,0 +1,5 @@
+draw
+*.o
+moc*
+*.user
+
